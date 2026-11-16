@@ -1,5 +1,5 @@
 snowflake-snowpark-python
 streamlit
+requests
 # snowflake-connector-python
 # pandas
-# requests
